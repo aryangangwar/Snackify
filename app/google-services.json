@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760797996911",
+    "project_id": "snackify-e25ab",
+    "storage_bucket": "snackify-e25ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760797996911:android:b73539cbb197bca8ccea9a",
+        "android_client_info": {
+          "package_name": "com.example.snackify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8eJnXKltx2Lcg1OVFOSwt9XbUK8_HlpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
